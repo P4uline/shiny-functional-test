@@ -1,5 +1,11 @@
-# Play Hello World Web Tutorial for Java
+# Shiny function test
 
+This is a Play functional test example that run an application and uses external resources : s3 in memory and mongodb in memory.
+
+Run as a JUnit test `HomeControllerShinyTest`
+
+Based on Lightbend Play Hello World Web Tutorial for Java :
+ 
 To follow the steps in this tutorial, you will need the correct version of Java and a build tool. You can build Play projects with any Java build tool. Since sbt takes advantage of Play features such as auto-reload, the tutorial describes how to build the project with sbt. 
 
 Prerequisites include:
